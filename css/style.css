@@ -752,17 +752,12 @@ Parallax
 
 
 }
-@media (max-width:768px) {
-	
-	.team.boxed-grey {
-		margin-bottom: 30px;
-	}
-	
-	.boxed-grey {
-		margin-bottom: 30px;
-	}
+.team.boxed-grey {
+	margin-bottom: 30px;
+}
 
-	
+.boxed-grey {
+	margin-bottom: 30px;
 }
 
 @media (max-width:480px) {
